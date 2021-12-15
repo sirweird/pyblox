@@ -16,7 +16,8 @@ Well, we're still in development, but we'll release an alpha version as soon as 
 #### Website link:
 https://sirweird.github.io/pyblox/  
   
-  
-  
-  
 **⚠️ ATTENTION: SOFTWARE AND WEBSITE STILL IN DEVELOPMENT ⚠️**
+
+#### Trello board:
+Our Trello board shows the features that we're currently working on.  
+https://trello.com/b/izqgNvnM/pyblox-development
