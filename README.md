@@ -8,8 +8,7 @@ PyBlox is a desktop application developed to make coding easy and fun. It's a bl
 **• A Discord bot with the Discord Python API**  
 **• Much more!**  
 
-While you're creating a project, you will have the ability to test it and the code will run using Python.
-But once you've finished a project, you'll have the choice of exporting it as an executable, but you could also get the Python source code.
+While you're creating a project, you will have the ability to test it and the code will run using Python, but once you've finished a project, you'll have the choice of exporting it as an executable, but you could also get the Python source code.
 
 ### How do I download it?
 Well, we're still in development, but we'll release an alpha version as soon as possible. When we *do* release an alpha version, it will be available for download on our website.
