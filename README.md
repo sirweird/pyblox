@@ -11,7 +11,7 @@ While you're creating a project, you will have the ability to test it and the co
 But once you've finished a project, you'll have the choice of exporting it as an executable, but you could also get the Python source code.
 
 ### How do I download it?
-Well, we're still in development, but we'll release an alpha version as soon as possible.
+Well, we're still in development, but we'll release an alpha version as soon as possible. When we *do* release an alpha version, it will be available for download on our website.
 
 #### Website link:
 https://sirweird.github.io/pyblox/
