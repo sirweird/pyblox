@@ -35,10 +35,3 @@ include "webcounter.php";
 $access_number = visitor($page_name);
 ?>
 
-<footer>
-  <p>
-<?php
-    echo "You are the", $access_number, " visitor on this site!";
-    ?>
-</p>
-</footer>
